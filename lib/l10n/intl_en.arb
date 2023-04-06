@@ -1,0 +1,11 @@
+{
+  "todo": "TODO",
+  "search": "Search",
+  "empty": "Empty",
+  "addTodo": "Add TODO",
+  "whatIsYourPlan": "What is your plan",
+  "thisFieldMustNotEmpty": "This field must not be empty",
+  "upcoming": "Upcoming",
+  "today": "Today",
+  "all": "All"
+}
